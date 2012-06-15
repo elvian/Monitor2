@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WindowStyles>
+  <GeneralStyle>
+    <BaseColor>#1a1b1f</BaseColor>
+    <Color1>#30333b</Color1>
+    <Color2>#445978</Color2>
+    <Color3>#93cecf</Color3>
+    <Color4>#edeef5</Color4>
+  </GeneralStyle>
+  <LoadBarStyle>
+    <ColorVeryLow>#468765</ColorVeryLow>
+    <ColorLow>#fff0a6</ColorLow>
+    <ColorMed>#ffae3d</ColorMed>
+    <ColorHigh>#b54726</ColorHigh>
+    <ColorVeryHigh>#8c2500</ColorVeryHigh>
+  </LoadBarStyle>
+</WindowStyles>
